@@ -1,9 +1,9 @@
 # awesome-ai-tools
 
-本项目旨在分享各种好用的AI工具，帮助大家高效创作、高效编码、高效工作。</p>
+本项目旨在分享各种好用的AI工具，帮助大家高效创作、高效编码、高效工作。<br>/
 
-## 高效创作
-### [Notion AI](https://www.notion.so/product/ai)
+# 高效创作
+## [Notion AI](https://www.notion.so/product/ai)
 Notion 是一个集 wiki、文档和项目管理于一体的工作空间，可以帮助团队更好、更快地完成工作。Notion AI 是 Notion 在2023年2月推出的一项功能，它内置于 Notion 中，**不能单独使用**。 Notion AI 利用大规模的语言模型和数据收集，能帮助用户自动整理笔记、改正错别字、列出文章重点、翻译、制作表格等。
 ### 是否有API
 无
@@ -48,7 +48,7 @@ Copy.ai 是一个人工智能写作工具，可以帮助用户自动生成邮件
 
 
 ### [Jasper](https://www.jasper.ai/?source=partner&fpr=aidaddy)
-Jasper是一款面向企业的生成式AI平台，可以帮助您的团队在任何在线工作场所更快地创建定制化品牌内容，速度提高10倍。</p>
+Jasper是一款面向企业的生成式AI平台，可以帮助您的团队在任何在线工作场所更快地创建定制化品牌内容，速度提高10倍。<br/>
 适合写博客、创作社交媒体、营销文案等
 ### 是否有API
 有，[API文档](https://developers.jasper.ai/docs/getting-started-1?_gl=1*15d2biw*_ga*OTkyODE3MjQzLjE2ODE5MDg0NzA.*_ga_D4P3CS8W5P*MTY4MTkwODQ3MC4xLjEuMTY4MTkwOTgxNi41Ny4wLjA.)
@@ -73,4 +73,22 @@ Jasper是一款面向企业的生成式AI平台，可以帮助您的团队在任
 ### 其他支持
 * [chrome扩展程序](https://chrome.google.com/webstore/detail/jasper-everywhere-extensi/bpiohchncadidhohcajcnoelomephkdd/related?hl=en&authuser=0)
 * SEO——快速编写排在搜索引擎第一页的内容
+
+# 高效编码
+##[Github Copilot](https://github.com/features/copilot/)
+GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器实时建议代码和整个功能。可以通过在注释中用自然语言描述代码功能，Github Copilot就可以生成建议的代码。
+
+### 多语言
+所有公开仓库涉及的语言都有包括
+### 使用方式
+常用的IDE，如Visual Studio Code, Visual Studio, Neovim 以及JetBrains都有Github Copilot的插件
+### 价格
+#### 免费使用
+供经过验证的学生、教师和热门开源项目的维护人员免费使用
+#### 免费试用
+一次性 30 天试用
+#### 个人付费版
+$10 per month/$100 per year
+#### 企业付费版
+$19 per user per month
 
